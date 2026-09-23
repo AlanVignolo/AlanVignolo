@@ -4,4 +4,4 @@ I work at Supportronics, in Mendoza, on embedded software for agricultural machi
 
 Right now I'm working on video pipelines (V4L2, GStreamer) and modern C++, and starting a ROS 2 course next month.
 
-Looking for roles in AI, computer vision, and edge AI, remote or in Argentina. LinkedIn: [linkedin.com/in/alan-vignolo](https://www.linkedin.com/in/alan-vignolo/) · Email: alanvignolo1999@gmail.com
+LinkedIn: [linkedin.com/in/alan-vignolo](https://www.linkedin.com/in/alan-vignolo/) · Email: alanvignolo1999@gmail.com
